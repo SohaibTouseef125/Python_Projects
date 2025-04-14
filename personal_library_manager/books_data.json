@@ -1,0 +1,58 @@
+[
+    {
+        "title": "The Lord of the Rings",
+        "author": "J. R. R. Tolkien",
+        "publication_year": 1954,
+        "genre": "Fantasy",
+        "is_read": "True"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_year": 1960,
+        "genre": "Classic",
+        "is_read": "True"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "publication_year": 1949,
+        "genre": "Dystopian",
+        "is_read": "True"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": 1925,
+        "genre": "Classic",
+        "is_read": "True"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publication_year": 1813,
+        "genre": "Classic",
+        "is_read": "True"
+    },
+    {
+        "title": "meri kahani",
+        "author": "sohaib touseef",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "Meri Kahani",
+        "author": "Sohaib Touseef",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "kahani",
+        "author": "sohaib",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    }
+]
